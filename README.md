@@ -5,6 +5,7 @@ This repository contains the numerical simulation codes associated with our manu
 **"Photon blockade effect from synergistic optical parametric amplification and driving force in Kerr-medium single-mode cavity"**
 
 Published in: *Acta Physica Sinica*, **74**(16), 164205 (2025). DOI: [10.7498/aps.74.20250712](https://doi.org/10.7498/aps.74.20250712)
+
 English preprint: [arXiv:2601.01819](https://arxiv.org/abs/2601.01819) [quant-ph]
 
 ## 📂 Repository Contents
