@@ -1,6 +1,6 @@
-# PB with OPA Drive in Kerr Cavity
+# UPB-OPA-Kerr
 
-This repository contains the data and the numerical simulation codes associated with our manuscript:
+This repository contains the numerical simulation codes associated with our manuscript:
 
 **"Photon blockade effect from synergistic optical parametric amplification and driving force in Kerr-medium single-mode cavity"**
 
